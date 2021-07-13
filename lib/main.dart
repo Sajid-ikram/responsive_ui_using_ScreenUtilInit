@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return ScreenUtilInit(
       builder: () => MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Flutter Demo',
+        title: 'Flutter login page',
         theme: ThemeData(
           primarySwatch: Colors.blue,
 
